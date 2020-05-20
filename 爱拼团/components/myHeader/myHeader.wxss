@@ -1,0 +1,17 @@
+.sreach {
+  height: 100rpx;
+  background-color: #f93553;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sreach .sreachInput {
+  width: 90%;
+  height: 80rpx;
+  background-color: white;
+  color: gray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5rpx;
+}
